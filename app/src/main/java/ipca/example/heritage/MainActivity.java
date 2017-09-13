@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-
+        Log.d("Heranca", "Adeus.");
 
     }
 }
